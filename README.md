@@ -172,3 +172,4 @@ limitations under the License.
 # Plugin Reference
 
 https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html
+https://www.elastic.co/blog/found-writing-a-plugin
