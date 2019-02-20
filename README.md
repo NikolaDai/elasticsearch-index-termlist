@@ -172,4 +172,15 @@ limitations under the License.
 # Plugin Reference
 
 https://www.elastic.co/guide/en/elasticsearch/plugins/current/index.html
+
 https://www.elastic.co/blog/found-writing-a-plugin
+
+http://www.technocratsid.com/how-to-create-an-elasticsearch-6-4-1-plugin/
+
+https://stackoverflow.com/questions/42652584/elasticsearch-5-how-to-start-writing-a-native-java-plugin#
+
+http://slides.com/salyh/plugin_development_elasticsearch#/11
+
+http://jalajel.me/tutorial-elasticsearch-plugin-development/
+
+https://docs.ansible.com/ansible/latest/modules/elasticsearch_plugin_module.html
